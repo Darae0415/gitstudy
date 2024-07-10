@@ -1,4 +1,29 @@
 
+동해물과 백두산이
+
+마르고 닳도록
+
+동물해과 백두산이   
+마르고 닳도록
+
+
+![네이버](https://github.com/Darae0415/gitstudy/assets/173641757/9cfa2089-7eac-49d7-9413-e1b1d9950d9f)
+
+<p align="center">
+  <img src="https://github.com/Darae0415/gitstudy/assets/173641757/9cfa2089-7eac-49d7-9413-e1b1d9950d9f"></p>
+
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__ (언더바)
+
+~~cancelline~~ (물결)
+
+
 사이트주소 : <https://daum.net/>
 
 
