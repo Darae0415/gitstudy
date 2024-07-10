@@ -1,19 +1,27 @@
 
+사이트주소 : <https://daum.net/>
+
+
+[Title](link)
+
+[Google](https://google.com, "google link")
+
+[daum](https://daum.net,"다음")
+
 [link keyword][id]
 
 [id]: URL "Optional Title here"
 
-// code
-Link: [Google][googlelink]
+
+[Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
 
 
-// code
-Link: [google][googlelink]
-[googlelink]: https://google.com "Go google"
+[naver][naverlink]
 
+[naverlink]: https://naver.com "Go google"
 
 
 ```javascript
